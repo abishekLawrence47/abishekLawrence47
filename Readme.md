@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Abishek Lawrence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Backend+Developer;LLM+Application+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies"/>
-
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
